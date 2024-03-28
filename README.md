@@ -18,17 +18,17 @@ I am a Software Developer having 2.5 Years of Experience in software developemen
 ![Web3](https://img.shields.io/badge/Web3-%2341B883.svg?&style=for-the-badge&logo=web3.js&logoColor=white)![Blockchain](https://img.shields.io/badge/Blockchain-%23100000.svg?&style=for-the-badge&logo=blockchain.com&logoColor=white)![Hyperledger](https://img.shields.io/badge/Hyperledger-%23326CE5.svg?&style=for-the-badge&logo=hyperledger&logoColor=white)
 
 ## Connect with me:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/mrityunjay-prakash/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrityunjay-prakash/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/mrityunjay-prakash/)
 
 
 ##  GitHub Stats:
 ![mprakash98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mprakash98&show_icons=true&locale=en&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mprakash98&show_icons=true&locale=en" alt="mprakash98" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mprakash98&show_icons=true&locale=en" alt="mprakash98" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mprakash98&" alt="mprakash98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mprakash98&" alt="mprakash98" /></p>
 
 
 
