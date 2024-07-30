@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mprakash98&label=Profile%20views&color=0e75b6&style=flat" alt="mprakash98" /> </p>
-I am a Software Developer having 2.5 Years of Experience in software developement.
+Software Developer having 3 Years of Experience in software developement.
 
 
 ## Languages and Tools:
